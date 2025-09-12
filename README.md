@@ -1,0 +1,2 @@
+# Dynamic-Theme-Switching-Dark-Light-Mode-Using-Laravel-Mix-and-SASS
+This project demonstrates the implementation of a Dark Mode and Light Mode theme switcher in a web application using Laravel Mix and SASS. The goal is to enhance user experience by allowing seamless switching between light and dark themes without compromising performance or accessibility. SASS is used to organize and manage theme variables, while L
